@@ -2,18 +2,11 @@
   <h1>BhaarNetra</h1>
   <p>National Digital Infrastructure for Freight Monitoring and Highway Asset Protection</p>
   
-  [![Build Status](https://img.shields.io/github/actions/workflow/status/Purrnanssh/BhaarNetra/deploy.yml?style=flat-square&color=000000&logo=github)](https://github.com/Purrnanssh/BhaarNetra/actions)
-  [![Next.js](https://img.shields.io/badge/Next.js-16.2-000000?style=flat-square&logo=next.js)](https://nextjs.org)
-  [![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square)](#license)
+  [![Website](https://img.shields.io/badge/Website-Live_Site-000000?style=flat-square&logo=github)](https://purrnanssh.github.io/BhaarNetra/)
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x600/0a0a0a/ffffff?text=BhaarNetra+Architecture" alt="BhaarNetra Banner" width="100%" />
-</div>
-
-<br/>
 
 ## Overview
 
@@ -104,47 +97,6 @@ By integrating Weigh-in-Motion (WIM), Automatic Number Plate Recognition (ANPR),
 | **Styling** | Tailwind CSS 4 |
 | **Deployment** | GitHub Pages (Static Export) |
 | **Toolchain** | pnpm, ESLint, TypeScript |
-
----
-
-## Screenshots
-
-<br/>
-
-<div align="center">
-  <h3>Landing Page</h3>
-  <img src="https://via.placeholder.com/1200x675/0a0a0a/ffffff?text=Landing+Page" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Architecture</h3>
-  <img src="https://via.placeholder.com/1200x675/0a0a0a/ffffff?text=Architecture" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Methodology</h3>
-  <img src="https://via.placeholder.com/1200x675/0a0a0a/ffffff?text=Methodology" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Evidence System</h3>
-  <img src="https://via.placeholder.com/1200x675/0a0a0a/ffffff?text=Evidence+System" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Impact Dashboard</h3>
-  <img src="https://via.placeholder.com/1200x675/0a0a0a/ffffff?text=Impact+Dashboard" width="100%" />
-</div>
-
-<br/>
 
 ---
 
